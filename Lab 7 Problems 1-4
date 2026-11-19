@@ -103,3 +103,21 @@ public class Lab7 {
             kLargest(arr, 2));
     }
 }
+
+Complexity:
+
+Problem 1:
+Time: O(n log n)
+Space: O(n)
+
+Problem 2:
+Time: O(n log n)
+Space: O(n)
+
+Problem 3:
+Time: O(n log n + k log n)
+Space: O(n)
+
+Problem 4:
+Time: O(n log k)
+Space: O(k)
